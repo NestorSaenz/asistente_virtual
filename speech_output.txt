@@ -1,0 +1,8 @@
+Probando probando 123.
+[en-US] Hello, how are you?
+[es-ES] Hola, mi nombre es Néstor Sáenz.
+[es-ES] Hola, hola.
+[en-US] Hello, my name is Nestor Science.
+[es-ES] Hoy es 12 de diciembre.
+[es-ES] Hola, quisiera saber qué día es hoy.
+[es-ES] Hola, me gustaría comprar una computadora nueva.
