@@ -23,3 +23,8 @@
 [es-ES] Dame la velocidad del sonido.
 [es-ES] Dame la velocidad de la luz.
 [es-ES] ¿Dime cuánto pesa una ballena azul cuando es bebé y cuando es grande?
+[es-ES] ¿Dime cuál es la velocidad de la luz?
+[es-ES] Velocidad del sonido.
+[es-ES] Dame, la historia más popular de la mitología griega.
+[es-ES] Dame el origen del movimiento izquierdista en Argentina.
+[es-ES] ¿Quién fue el creador de dicho movimiento?
