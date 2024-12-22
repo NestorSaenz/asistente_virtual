@@ -11,7 +11,10 @@ def save_to_file(text, filename="speech_output.txt"):
         print(f"[ERROR] No se pudo guardar el archivo: {e}")
 
 def init_speech():
-       # Configuración de Azure Speech SDK
+    
+    print("[INFO] Inicia el reconocimiento de voz. Habla algo...")
+    
+    # Configuración de Azure Speech SDK
     speech_config = speechsdk.SpeechConfig(subscription=AZURE_SPEECH_KEY, region=AZURE_SPEECH_REGION)
     audio_config = speechsdk.audio.AudioConfig(use_default_microphone=True)
 
@@ -25,8 +28,7 @@ def init_speech():
         auto_detect_source_language_config=auto_language_config,
     )
 
-    print("[INFO] Inicia el reconocimiento de voz. Habla algo...")
-
+    
     # Inicia el reconocimiento y espera a que termine después de detectar el final del habla
     result = recognizer.recognize_once()
 
@@ -42,6 +44,7 @@ def init_speech():
         print(f"[ERROR] Reconocimiento cancelado: {cancellation_details.reason}")
         if cancellation_details.error_details:
             print(f"[ERROR] Detalles: {cancellation_details.error_details}")
+    
     return result.text
 
    

@@ -25,7 +25,7 @@ def get_response_from_model(user_input):
         engine=deployment_name,  # El modelo que estás usando
         messages=messages,       # El historial de mensajes (usuario y sistema)
         max_tokens=200,          # Limita la longitud de la respuesta
-        temperature=0.7,         # Controla la creatividad de las respuestas
+        temperature=0.1,         # Controla la creatividad de las respuestas
         
     )
     

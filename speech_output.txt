@@ -1,30 +1,14 @@
-[es-ES] Animal terrestre más veloz.
-[es-ES] Animal más veloz del mundo.
-[es-ES] Pájaro más veloz del mundo.
-[es-ES] ¿Cuántos huesos tiene un chimpancé?
-[es-ES] ¿Cuántos planetas existen?
-[es-ES] ¿Cuál es el mejor jugador de Basket de la historia?
-[es-ES] ¿Cuál es el pez más veloz del océano?
-[es-ES] ¿Cuántos dientes tiene un niño de 8 años?
-[es-ES] ¿Cuál es el mejor equipo de hockey de la historia?
-[es-ES] ¿Cuántas medallas de oro tiene Michael Phelps en las Olimpiadas?
-[es-ES] Mencióname, todos los signos del zodiaco.
-[en-US] It's it's.
-[es-ES] Explícame el Reino Monera.
-[es-ES] Explícame el Reino Fungi.
-[es-ES] Dame la velocidad de la luz.
-[es-ES] Dame la velocidad del sonido.
-[es-ES] ¿Qué es la luz ultravioleta?
-[es-ES] Dame la velocidad del sonido.
-[es-ES] Dame la velocidad de la luz.
-[es-ES] Quiero saber la velocidad de la luz.
-[es-ES] Dame la velocidad del sonido.
-[es-ES] Dame la velocidad del sonido.
-[es-ES] Dame la velocidad del sonido.
-[es-ES] Dame la velocidad de la luz.
-[es-ES] ¿Dime cuánto pesa una ballena azul cuando es bebé y cuando es grande?
-[es-ES] ¿Dime cuál es la velocidad de la luz?
-[es-ES] Velocidad del sonido.
-[es-ES] Dame, la historia más popular de la mitología griega.
-[es-ES] Dame el origen del movimiento izquierdista en Argentina.
-[es-ES] ¿Quién fue el creador de dicho movimiento?
+[es-ES] ¿Quiero ser científico de datos, por dónde inicio mi carrera?
+[es-ES] Finalizado.
+[es-ES] Finalizar, finalizar.
+[es-ES] Finalizar.
+[es-ES] Quiero ser científico de datos, dame la ruta de aprendizaje.
+[es-ES] ¿Quiero ser un analista de datos, qué tecnologías debería aprender?
+[es-ES] ¿En qué plataforma me recomiendas empezar?
+[es-ES] Finalizar.
+[es-ES] ¿Quiero ser científico de datos, qué debería empezar a estudiar?
+[es-ES] ¿En qué plataforma me recomiendas empezar?
+[es-ES] ¿Conoces a Henry?
+[es-ES] Te pregunto si conoces la plataforma soy Henry.
+[es-ES] ¿Me la recomendarías o es muy mala?
+[es-ES] Detener.
