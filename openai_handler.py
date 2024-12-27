@@ -1,6 +1,4 @@
 import openai
-import pyttsx3
-import time
 from config import *
 
 # Configura tu clave API y el endpoint de Azure
@@ -10,7 +8,7 @@ openai.api_type = 'azure'
 openai.api_version = '2023-05-15'  # Asegúrate de usar una versión estable
 
 # Nombre del modelo de OpenAI (debe ser uno compatible con Chat)
-deployment_name = 'gpt-4o-mini'  # Cambia esto si estás usando otro modelo
+deployment_name = 'gpt-4'  # Cambia esto si estás usando otro modelo
 
 # Función para interactuar con el modelo usando entradas dinámicas
 def get_response_from_model(user_input):
