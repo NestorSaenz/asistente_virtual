@@ -44,3 +44,9 @@
 [es-ES] Detener.
 [es-ES] ¿Cuántos festivos hay en Colombia en el 2025?
 [es-ES] Detener.
+[es-ES] Hola, háblame del sector inmobiliario, las últimas novedades.
+[es-ES] ¿Me puedes dar datos de Argentina? ¿Cómo ha evolucionado en Buenos Aires?
+[es-ES] Quiero que me hables del desarrollo inmobiliario en Argentina, Buenos Aires en estos últimos años, dame datos.
+[es-ES] ¿Okey, en cuánto está el metro cuadrado y qué fecha actualización no tienes?
+[en-US] Give call is to feature.
+[es-ES] Detener.

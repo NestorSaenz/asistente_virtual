@@ -23,8 +23,8 @@ def process_audio():
         return jsonify({"error": "El archivo no tiene un nombre válido."}), 400
 
     try:
-        # Guardar temporalmente el archivo de audio
-        audio_file_path = 'temp_audio.wav'
+        # Guardar temporalmente el archivo de audio en el sistema temporal de Azure
+        audio_file_path = '/tmp/temp_audio.wav'
         audio_file.save(audio_file_path)
 
         # Convertir el audio en texto usando Azure Speech-to-Text
@@ -62,5 +62,12 @@ def process_text():
     except Exception as e:
         return jsonify({"error": f"Error al procesar el texto: {str(e)}"}), 500
 
+# Endpoint para Health Check
+@app.route('/healthcheck', methods=['GET'])
+def healthcheck():
+    return "Healthy", 200  # Devuelve un código HTTP 200 si todo está bien
+
+# Configuración para Azure App Service
 if __name__ == "__main__":
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    port = int(os.environ.get('PORT', 5000))  # Puerto dinámico de Azure
+    app.run(debug=True, host='0.0.0.0', port=port)
