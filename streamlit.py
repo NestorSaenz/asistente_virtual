@@ -1,5 +1,5 @@
 import streamlit as st
-from azure_speech_handler import init_speech
+from azure_speech_handler import *
 from openai_handler import get_response_from_model
 from voice_Syncronized import display_and_speak
 
