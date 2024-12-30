@@ -1,4 +1,4 @@
-fastapi
+Flask
 openai
 azure-cognitiveservices-speech
-python-dotenv
+pyttsx3
